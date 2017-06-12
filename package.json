@@ -1,0 +1,26 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "burger eating app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ageel/burger.git"
+  },
+  "author": "ageel shatry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ageel/burger/issues"
+  },
+  "homepage": "https://github.com/Ageel/burger#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.9",
+    "mysql": "^2.13.0"
+  }
+}
