@@ -8,9 +8,20 @@
   margin-right: auto*/
 }*/
 
-img {
-    width: 100%;
+
+.text {
+  font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+  text-align: center;
+  color: blue;
+
 }
+
+h2{
+ color: red;
+}
+/*img {
+    width: 100%;
+}*/
 
 .image {
     width: 50%;
